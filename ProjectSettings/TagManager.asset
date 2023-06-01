@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Test_Dialogue_NPC
+  - Enemy_Detector
+  - Abilites
+  - Dash
+  - Attack_Detector
+  - Health_Container
+  - SlowMow
+  - Health
+  - Health_Bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4252408881
+    locked: 0
+  - name: Player
+    uniqueID: 1777970385
+    locked: 0
+  - name: Enemy
+    uniqueID: 2823414033
+    locked: 0
+  - name: Dash
+    uniqueID: 370155077
+    locked: 0
+  - name: Background
+    uniqueID: 3881870807
+    locked: 0

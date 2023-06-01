@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 2ea20a94fb4d5d640ba2c10db3bf7282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4409032251012935823
+    second: 20_magicbubbles_spritesheet_0
+  - first:
+      213: 4065181024458708058
+    second: 20_magicbubbles_spritesheet_1
+  - first:
+      213: -5425799556928479830
+    second: 20_magicbubbles_spritesheet_2
+  - first:
+      213: 2388159223331847977
+    second: 20_magicbubbles_spritesheet_3
+  - first:
+      213: -407818703440091146
+    second: 20_magicbubbles_spritesheet_4
+  - first:
+      213: 1198602711994019978
+    second: 20_magicbubbles_spritesheet_5
+  - first:
+      213: 3554176392761919873
+    second: 20_magicbubbles_spritesheet_6
+  - first:
+      213: 8534798888714273556
+    second: 20_magicbubbles_spritesheet_7
+  - first:
+      213: 6958172156970642362
+    second: 20_magicbubbles_spritesheet_8
+  - first:
+      213: -6673453918586420082
+    second: 20_magicbubbles_spritesheet_9
+  - first:
+      213: -2785063379658966067
+    second: 20_magicbubbles_spritesheet_10
+  - first:
+      213: 4090810644791392873
+    second: 20_magicbubbles_spritesheet_11
+  - first:
+      213: -7372538589298725679
+    second: 20_magicbubbles_spritesheet_12
+  - first:
+      213: -4765065848865614871
+    second: 20_magicbubbles_spritesheet_13
+  - first:
+      213: 4601788602000985596
+    second: 20_magicbubbles_spritesheet_14
+  - first:
+      213: 3616816569782707944
+    second: 20_magicbubbles_spritesheet_15
+  - first:
+      213: 1264376853689320256
+    second: 20_magicbubbles_spritesheet_16
+  - first:
+      213: 937365858633998054
+    second: 20_magicbubbles_spritesheet_17
+  - first:
+      213: -3363849532477048002
+    second: 20_magicbubbles_spritesheet_18
+  - first:
+      213: 5670647937722059278
+    second: 20_magicbubbles_spritesheet_19
+  - first:
+      213: 4802629888861886528
+    second: 20_magicbubbles_spritesheet_20
+  - first:
+      213: 2488359252961851518
+    second: 20_magicbubbles_spritesheet_21
+  - first:
+      213: 6587951780302386891
+    second: 20_magicbubbles_spritesheet_22
+  - first:
+      213: -6123988152469006896
+    second: 20_magicbubbles_spritesheet_23
+  - first:
+      213: -895997032319763731
+    second: 20_magicbubbles_spritesheet_24
+  - first:
+      213: 757656891384838969
+    second: 20_magicbubbles_spritesheet_25
+  - first:
+      213: 1857582598454748350
+    second: 20_magicbubbles_spritesheet_26
+  - first:
+      213: 3304866995427751621
+    second: 20_magicbubbles_spritesheet_27
+  - first:
+      213: 5090024780538735383
+    second: 20_magicbubbles_spritesheet_28
+  - first:
+      213: -3870174845548706236
+    second: 20_magicbubbles_spritesheet_29
+  - first:
+      213: 5070673775132083138
+    second: 20_magicbubbles_spritesheet_30
+  - first:
+      213: -9043210551623885618
+    second: 20_magicbubbles_spritesheet_31
+  - first:
+      213: 6746323408794748443
+    second: 20_magicbubbles_spritesheet_32
+  - first:
+      213: 7913234044289323587
+    second: 20_magicbubbles_spritesheet_33
+  - first:
+      213: -4362062271305271315
+    second: 20_magicbubbles_spritesheet_34
+  - first:
+      213: -391032558820842052
+    second: 20_magicbubbles_spritesheet_35
+  - first:
+      213: -4678678930770935667
+    second: 20_magicbubbles_spritesheet_36
+  - first:
+      213: -3199606228256401940
+    second: 20_magicbubbles_spritesheet_37
+  - first:
+      213: 4512413778795825279
+    second: 20_magicbubbles_spritesheet_38
+  - first:
+      213: 2386300343696147353
+    second: 20_magicbubbles_spritesheet_39
+  - first:
+      213: 3922432257740933100
+    second: 20_magicbubbles_spritesheet_40
+  - first:
+      213: -8818033552032386386
+    second: 20_magicbubbles_spritesheet_41
+  - first:
+      213: -3639853095886612053
+    second: 20_magicbubbles_spritesheet_42
+  - first:
+      213: -6192312741039630943
+    second: 20_magicbubbles_spritesheet_43
+  - first:
+      213: 1309483998184469936
+    second: 20_magicbubbles_spritesheet_44
+  - first:
+      213: 5814180464145285431
+    second: 20_magicbubbles_spritesheet_45
+  - first:
+      213: 5362163030192192848
+    second: 20_magicbubbles_spritesheet_46
+  - first:
+      213: -2862555972211369155
+    second: 20_magicbubbles_spritesheet_47
+  - first:
+      213: -7922961623734536782
+    second: 20_magicbubbles_spritesheet_48
+  - first:
+      213: 5976667770697549749
+    second: 20_magicbubbles_spritesheet_49
+  - first:
+      213: 7449498172014977843
+    second: 20_magicbubbles_spritesheet_50
+  - first:
+      213: 5941533097018288476
+    second: 20_magicbubbles_spritesheet_51
+  - first:
+      213: -122173415899642658
+    second: 20_magicbubbles_spritesheet_52
+  - first:
+      213: 4777777698466959465
+    second: 20_magicbubbles_spritesheet_53
+  - first:
+      213: -2400816717176548225
+    second: 20_magicbubbles_spritesheet_54
+  - first:
+      213: -8389787829064619681
+    second: 20_magicbubbles_spritesheet_55
+  - first:
+      213: -1316329626115009376
+    second: 20_magicbubbles_spritesheet_56
+  - first:
+      213: -2367703123146302819
+    second: 20_magicbubbles_spritesheet_57
+  - first:
+      213: -3195436035697300658
+    second: 20_magicbubbles_spritesheet_58
+  - first:
+      213: 2282240217077711973
+    second: 20_magicbubbles_spritesheet_59
+  - first:
+      213: -1223536739951797012
+    second: 20_magicbubbles_spritesheet_60
+  - first:
+      213: -724665548463770955
+    second: 20_magicbubbles_spritesheet_61
+  - first:
+      213: 5765434721875191442
+    second: 20_magicbubbles_spritesheet_62
+  - first:
+      213: -8353725518978991299
+    second: 20_magicbubbles_spritesheet_63
+  - first:
+      213: 1516487201609233508
+    second: 20_magicbubbles_spritesheet_64
+  - first:
+      213: -5054360664470878953
+    second: 20_magicbubbles_spritesheet_65
+  - first:
+      213: -7451521032186400577
+    second: 20_magicbubbles_spritesheet_66
+  - first:
+      213: 953236267507096018
+    second: 20_magicbubbles_spritesheet_67
+  - first:
+      213: -6351186586504194779
+    second: 20_magicbubbles_spritesheet_68
+  - first:
+      213: -9188989950603747117
+    second: 20_magicbubbles_spritesheet_69
+  - first:
+      213: -1778449424651830229
+    second: 20_magicbubbles_spritesheet_70
+  - first:
+      213: 5872502126292751076
+    second: 20_magicbubbles_spritesheet_71
+  - first:
+      213: 6390286776491914498
+    second: 20_magicbubbles_spritesheet_72
+  - first:
+      213: -3905920462295311462
+    second: 20_magicbubbles_spritesheet_73
+  - first:
+      213: -5186589844281537102
+    second: 20_magicbubbles_spritesheet_74
+  - first:
+      213: 3291309628244992869
+    second: 20_magicbubbles_spritesheet_75
+  - first:
+      213: -6877559930023512273
+    second: 20_magicbubbles_spritesheet_76
+  - first:
+      213: 5612846275660250127
+    second: 20_magicbubbles_spritesheet_77
+  - first:
+      213: -7139122836399156506
+    second: 20_magicbubbles_spritesheet_78
+  - first:
+      213: 171144483781987258
+    second: 20_magicbubbles_spritesheet_79
+  - first:
+      213: 4968607129204268502
+    second: 20_magicbubbles_spritesheet_80
+  - first:
+      213: 5520270388798094708
+    second: 20_magicbubbles_spritesheet_81
+  - first:
+      213: -4681232046845268802
+    second: 20_magicbubbles_spritesheet_82
+  - first:
+      213: -5851455122891997216
+    second: 20_magicbubbles_spritesheet_83
+  - first:
+      213: 7968457653928118123
+    second: 20_magicbubbles_spritesheet_84
+  - first:
+      213: -3895212745180218528
+    second: 20_magicbubbles_spritesheet_85
+  - first:
+      213: 7376778492908441307
+    second: 20_magicbubbles_spritesheet_86
+  - first:
+      213: -5423834727506428989
+    second: 20_magicbubbles_spritesheet_87
+  - first:
+      213: -6566462863377474005
+    second: 20_magicbubbles_spritesheet_88
+  - first:
+      213: -9079995724856394463
+    second: 20_magicbubbles_spritesheet_89
+  - first:
+      213: 5163286773102601711
+    second: 20_magicbubbles_spritesheet_90
+  - first:
+      213: 41115438939616871
+    second: 20_magicbubbles_spritesheet_91
+  - first:
+      213: 8552751823613156372
+    second: 20_magicbubbles_spritesheet_92
+  - first:
+      213: -6282461659263629715
+    second: 20_magicbubbles_spritesheet_93
+  - first:
+      213: 8020788261373848673
+    second: 20_magicbubbles_spritesheet_94
+  - first:
+      213: 1318405430036932396
+    second: 20_magicbubbles_spritesheet_95
+  - first:
+      213: -4074499216013303918
+    second: 20_magicbubbles_spritesheet_96
+  - first:
+      213: -8094039178322538251
+    second: 20_magicbubbles_spritesheet_97
+  - first:
+      213: 494500240306477417
+    second: 20_magicbubbles_spritesheet_98
+  - first:
+      213: 7309077243691896548
+    second: 20_magicbubbles_spritesheet_99
+  - first:
+      213: 7166997442755138528
+    second: 20_magicbubbles_spritesheet_100
+  - first:
+      213: -6283386479312818329
+    second: 20_magicbubbles_spritesheet_101
+  - first:
+      213: 5449566940524740728
+    second: 20_magicbubbles_spritesheet_102
+  - first:
+      213: -58890697170543433
+    second: 20_magicbubbles_spritesheet_103
+  - first:
+      213: 4544385545702777201
+    second: 20_magicbubbles_spritesheet_104
+  - first:
+      213: -8820291332520197579
+    second: 20_magicbubbles_spritesheet_105
+  - first:
+      213: -5599235806090195300
+    second: 20_magicbubbles_spritesheet_106
+  - first:
+      213: 4923024936127701371
+    second: 20_magicbubbles_spritesheet_107
+  - first:
+      213: -3688422723885572670
+    second: 20_magicbubbles_spritesheet_108
+  - first:
+      213: 5965497493474405167
+    second: 20_magicbubbles_spritesheet_109
+  - first:
+      213: -8209850109663067909
+    second: 20_magicbubbles_spritesheet_110
+  - first:
+      213: -1135771309082293641
+    second: 20_magicbubbles_spritesheet_111
+  - first:
+      213: 6364434938152415061
+    second: 20_magicbubbles_spritesheet_112
+  - first:
+      213: -151254265389069338
+    second: 20_magicbubbles_spritesheet_113
+  - first:
+      213: 2468184092647080335
+    second: 20_magicbubbles_spritesheet_114
+  - first:
+      213: -2466257614674858834
+    second: 20_magicbubbles_spritesheet_115
+  - first:
+      213: 5176118851239185613
+    second: 20_magicbubbles_spritesheet_116
+  - first:
+      213: 3828544146494224813
+    second: 20_magicbubbles_spritesheet_117
+  - first:
+      213: -6438646771104631532
+    second: 20_magicbubbles_spritesheet_118
+  - first:
+      213: -3888459968575273591
+    second: 20_magicbubbles_spritesheet_119
+  - first:
+      213: 3015288759952544675
+    second: 20_magicbubbles_spritesheet_120
+  - first:
+      213: 9199844970146416228
+    second: 20_magicbubbles_spritesheet_121
+  - first:
+      213: 2445481165139153324
+    second: 20_magicbubbles_spritesheet_122
+  - first:
+      213: -2838022044434589754
+    second: 20_magicbubbles_spritesheet_123
+  - first:
+      213: 6192053319229382110
+    second: 20_magicbubbles_spritesheet_124
+  - first:
+      213: 7668954253361502816
+    second: 20_magicbubbles_spritesheet_125
+  - first:
+      213: 2213487960554452389
+    second: 20_magicbubbles_spritesheet_126
+  - first:
+      213: -1465371561498519256
+    second: 20_magicbubbles_spritesheet_127
+  - first:
+      213: -4361108954618156726
+    second: 20_magicbubbles_spritesheet_128
+  - first:
+      213: 3919760954089142552
+    second: 20_magicbubbles_spritesheet_129
+  - first:
+      213: 5818110374239081724
+    second: 20_magicbubbles_spritesheet_130
+  - first:
+      213: 6892961864794992448
+    second: 20_magicbubbles_spritesheet_131
+  - first:
+      213: -4062579376303041478
+    second: 20_magicbubbles_spritesheet_132
+  - first:
+      213: -3545027263266612855
+    second: 20_magicbubbles_spritesheet_133
+  - first:
+      213: 6083247025122712350
+    second: 20_magicbubbles_spritesheet_134
+  - first:
+      213: -2793964146702334852
+    second: 20_magicbubbles_spritesheet_135
+  - first:
+      213: -4363897421220906109
+    second: 20_magicbubbles_spritesheet_136
+  - first:
+      213: 4883889083995838022
+    second: 20_magicbubbles_spritesheet_137
+  - first:
+      213: 5834567239681631265
+    second: 20_magicbubbles_spritesheet_138
+  - first:
+      213: -7106149083721332160
+    second: 20_magicbubbles_spritesheet_139
+  - first:
+      213: -765355614237422915
+    second: 20_magicbubbles_spritesheet_140
+  - first:
+      213: -4877094095925636224
+    second: 20_magicbubbles_spritesheet_141
+  - first:
+      213: -3049631334253774397
+    second: 20_magicbubbles_spritesheet_142
+  - first:
+      213: -6865575357143731476
+    second: 20_magicbubbles_spritesheet_143
+  - first:
+      213: 7412755210996774304
+    second: 20_magicbubbles_spritesheet_144
+  - first:
+      213: 7969583096519931225
+    second: 20_magicbubbles_spritesheet_145
+  - first:
+      213: -1808508681800687071
+    second: 20_magicbubbles_spritesheet_146
+  - first:
+      213: 2873575000536760339
+    second: 20_magicbubbles_spritesheet_147
+  - first:
+      213: 6907761283896463775
+    second: 20_magicbubbles_spritesheet_148
+  - first:
+      213: 2922063846123238611
+    second: 20_magicbubbles_spritesheet_149
+  - first:
+      213: -9111460793249212740
+    second: 20_magicbubbles_spritesheet_150
+  - first:
+      213: 778906606327321306
+    second: 20_magicbubbles_spritesheet_151
+  - first:
+      213: -6949376734638862258
+    second: 20_magicbubbles_spritesheet_152
+  - first:
+      213: 5682013171646074038
+    second: 20_magicbubbles_spritesheet_153
+  - first:
+      213: -7295004352058385622
+    second: 20_magicbubbles_spritesheet_154
+  - first:
+      213: -3614718328902803788
+    second: 20_magicbubbles_spritesheet_155
+  - first:
+      213: -264783292622464944
+    second: 20_magicbubbles_spritesheet_156
+  - first:
+      213: 6803069346100088554
+    second: 20_magicbubbles_spritesheet_157
+  - first:
+      213: -8447428245279486786
+    second: 20_magicbubbles_spritesheet_158
+  - first:
+      213: 4902757137692657302
+    second: 20_magicbubbles_spritesheet_159
+  - first:
+      213: 6929900436126832772
+    second: 20_magicbubbles_spritesheet_160
+  - first:
+      213: 6679749231625534787
+    second: 20_magicbubbles_spritesheet_161
+  - first:
+      213: -4821459706753671617
+    second: 20_magicbubbles_spritesheet_162
+  - first:
+      213: -7846768882987231819
+    second: 20_magicbubbles_spritesheet_163
+  - first:
+      213: -9179375225231440364
+    second: 20_magicbubbles_spritesheet_164
+  - first:
+      213: 5757705608156231305
+    second: 20_magicbubbles_spritesheet_165
+  - first:
+      213: -4924337835577071868
+    second: 20_magicbubbles_spritesheet_166
+  - first:
+      213: 6566876558359982151
+    second: 20_magicbubbles_spritesheet_167
+  - first:
+      213: 2433347175286538739
+    second: 20_magicbubbles_spritesheet_168
+  - first:
+      213: -4936758544361475857
+    second: 20_magicbubbles_spritesheet_169
+  - first:
+      213: -6755621439614500062
+    second: 20_magicbubbles_spritesheet_170
+  - first:
+      213: -7502582402600734950
+    second: 20_magicbubbles_spritesheet_171
+  - first:
+      213: -3522710734630308245
+    second: 20_magicbubbles_spritesheet_172
+  - first:
+      213: -113282839903864916
+    second: 20_magicbubbles_spritesheet_173
+  - first:
+      213: 7697784375847260999
+    second: 20_magicbubbles_spritesheet_174
+  - first:
+      213: 1152963928145606141
+    second: 20_magicbubbles_spritesheet_175
+  - first:
+      213: 8371731530393379181
+    second: 20_magicbubbles_spritesheet_176
+  - first:
+      213: -5992340110830766649
+    second: 20_magicbubbles_spritesheet_177
+  - first:
+      213: -7738534552611681964
+    second: 20_magicbubbles_spritesheet_178
+  - first:
+      213: 2154798143344343696
+    second: 20_magicbubbles_spritesheet_179
+  - first:
+      213: 2440224198276253043
+    second: 20_magicbubbles_spritesheet_180
+  - first:
+      213: 7182085693491092023
+    second: 20_magicbubbles_spritesheet_181
+  - first:
+      213: 8629045468474954458
+    second: 20_magicbubbles_spritesheet_182
+  - first:
+      213: 8722285138460497865
+    second: 20_magicbubbles_spritesheet_183
+  - first:
+      213: 692156733590219304
+    second: 20_magicbubbles_spritesheet_184
+  - first:
+      213: 6035946499303906985
+    second: 20_magicbubbles_spritesheet_185
+  - first:
+      213: 3415542928024211029
+    second: 20_magicbubbles_spritesheet_186
+  - first:
+      213: 6866679717963767810
+    second: 20_magicbubbles_spritesheet_187
+  - first:
+      213: 7465280849815578674
+    second: 20_magicbubbles_spritesheet_188
+  - first:
+      213: -1446053371307526261
+    second: 20_magicbubbles_spritesheet_189
+  - first:
+      213: -12078341779474454
+    second: 20_magicbubbles_spritesheet_190
+  - first:
+      213: -113382698582242054
+    second: 20_magicbubbles_spritesheet_191
+  - first:
+      213: 3704378104529392396
+    second: 20_magicbubbles_spritesheet_192
+  - first:
+      213: -5098304155046366713
+    second: 20_magicbubbles_spritesheet_193
+  - first:
+      213: -1997251577094487716
+    second: 20_magicbubbles_spritesheet_194
+  - first:
+      213: 4774715560779751373
+    second: 20_magicbubbles_spritesheet_195
+  - first:
+      213: 7944130034755419297
+    second: 20_magicbubbles_spritesheet_196
+  - first:
+      213: -1590336086056707902
+    second: 20_magicbubbles_spritesheet_197
+  - first:
+      213: 7331947147321206608
+    second: 20_magicbubbles_spritesheet_198
+  - first:
+      213: -2725207426709107449
+    second: 20_magicbubbles_spritesheet_199
+  - first:
+      213: -6554833160320266671
+    second: 20_magicbubbles_spritesheet_200
+  - first:
+      213: 8907725587402881359
+    second: 20_magicbubbles_spritesheet_201
+  - first:
+      213: -3433938046273017385
+    second: 20_magicbubbles_spritesheet_202
+  - first:
+      213: 3000195028047509337
+    second: 20_magicbubbles_spritesheet_203
+  - first:
+      213: -4087889238842396365
+    second: 20_magicbubbles_spritesheet_204
+  - first:
+      213: 813761699040319683
+    second: 20_magicbubbles_spritesheet_205
+  - first:
+      213: 8173805681028303786
+    second: 20_magicbubbles_spritesheet_206
+  - first:
+      213: -4432646266859027872
+    second: 20_magicbubbles_spritesheet_207
+  - first:
+      213: -6148228923394145253
+    second: 20_magicbubbles_spritesheet_208
+  - first:
+      213: -2555846232546328727
+    second: 20_magicbubbles_spritesheet_209
+  - first:
+      213: 4422711955714047498
+    second: 20_magicbubbles_spritesheet_210
+  - first:
+      213: -6250806977378983023
+    second: 20_magicbubbles_spritesheet_211
+  - first:
+      213: -1814355783603526948
+    second: 20_magicbubbles_spritesheet_212
+  - first:
+      213: 8716193800433275643
+    second: 20_magicbubbles_spritesheet_213
+  - first:
+      213: 6831249758696882344
+    second: 20_magicbubbles_spritesheet_214
+  - first:
+      213: -5939070844772864308
+    second: 20_magicbubbles_spritesheet_215
+  - first:
+      213: 5811029647255235265
+    second: 20_magicbubbles_spritesheet_216
+  - first:
+      213: -4328420644176981591
+    second: 20_magicbubbles_spritesheet_217
+  - first:
+      213: 3836238609358644277
+    second: 20_magicbubbles_spritesheet_218
+  - first:
+      213: -8143756744378225123
+    second: 20_magicbubbles_spritesheet_219
+  - first:
+      213: 4120826413757033044
+    second: 20_magicbubbles_spritesheet_220
+  - first:
+      213: 6428935916390357696
+    second: 20_magicbubbles_spritesheet_221
+  - first:
+      213: 8915299135044405247
+    second: 20_magicbubbles_spritesheet_222
+  - first:
+      213: 4171101998804096318
+    second: 20_magicbubbles_spritesheet_223
+  - first:
+      213: 6850781106141150224
+    second: 20_magicbubbles_spritesheet_224
+  - first:
+      213: 7241489113442880684
+    second: 20_magicbubbles_spritesheet_225
+  - first:
+      213: -1778323271810635496
+    second: 20_magicbubbles_spritesheet_226
+  - first:
+      213: -9217630116964762735
+    second: 20_magicbubbles_spritesheet_227
+  - first:
+      213: -783270704396570774
+    second: 20_magicbubbles_spritesheet_228
+  - first:
+      213: 2679428948312914571
+    second: 20_magicbubbles_spritesheet_229
+  - first:
+      213: -2071217174519433718
+    second: 20_magicbubbles_spritesheet_230
+  - first:
+      213: 2268565267492906036
+    second: 20_magicbubbles_spritesheet_231
+  - first:
+      213: -1585732481793477535
+    second: 20_magicbubbles_spritesheet_232
+  - first:
+      213: 5804499048803004281
+    second: 20_magicbubbles_spritesheet_233
+  - first:
+      213: 7464197781914091555
+    second: 20_magicbubbles_spritesheet_234
+  - first:
+      213: -6133236407369448043
+    second: 20_magicbubbles_spritesheet_235
+  - first:
+      213: -3245299556913137686
+    second: 20_magicbubbles_spritesheet_236
+  - first:
+      213: -4877807953837632078
+    second: 20_magicbubbles_spritesheet_237
+  - first:
+      213: -4509746566447147185
+    second: 20_magicbubbles_spritesheet_238
+  - first:
+      213: -3633116089268886092
+    second: 20_magicbubbles_spritesheet_239
+  - first:
+      213: -8819235642827777004
+    second: 20_magicbubbles_spritesheet_240
+  - first:
+      213: 8238511089394229961
+    second: 20_magicbubbles_spritesheet_241
+  - first:
+      213: 3186067150214518625
+    second: 20_magicbubbles_spritesheet_242
+  - first:
+      213: 6441381533675758243
+    second: 20_magicbubbles_spritesheet_243
+  - first:
+      213: -7989871169503352060
+    second: 20_magicbubbles_spritesheet_244
+  - first:
+      213: -5332781581009992432
+    second: 20_magicbubbles_spritesheet_245
+  - first:
+      213: -4859891764448756303
+    second: 20_magicbubbles_spritesheet_246
+  - first:
+      213: -54141596156968955
+    second: 20_magicbubbles_spritesheet_247
+  - first:
+      213: -1707323948389097560
+    second: 20_magicbubbles_spritesheet_248
+  - first:
+      213: -2349302530567121975
+    second: 20_magicbubbles_spritesheet_249
+  - first:
+      213: -5517954880949719730
+    second: 20_magicbubbles_spritesheet_250
+  - first:
+      213: 5578385311631525575
+    second: 20_magicbubbles_spritesheet_251
+  - first:
+      213: 3640979836496264946
+    second: 20_magicbubbles_spritesheet_252
+  - first:
+      213: 8213832138138851369
+    second: 20_magicbubbles_spritesheet_253
+  - first:
+      213: -1182403757781119416
+    second: 20_magicbubbles_spritesheet_254
+  - first:
+      213: -3806344348896737679
+    second: 20_magicbubbles_spritesheet_255
+  - first:
+      213: 1890892344856081025
+    second: 20_magicbubbles_spritesheet_256
+  - first:
+      213: 3395750336588317526
+    second: 20_magicbubbles_spritesheet_257
+  - first:
+      213: 1317735811936194824
+    second: 20_magicbubbles_spritesheet_258
+  - first:
+      213: -4685537275589551708
+    second: 20_magicbubbles_spritesheet_259
+  - first:
+      213: -5549188917772538181
+    second: 20_magicbubbles_spritesheet_260
+  - first:
+      213: 9128670137292042057
+    second: 20_magicbubbles_spritesheet_261
+  - first:
+      213: 266270671281022608
+    second: 20_magicbubbles_spritesheet_262
+  - first:
+      213: 8614358836229594970
+    second: 20_magicbubbles_spritesheet_263
+  - first:
+      213: -992456070163834998
+    second: 20_magicbubbles_spritesheet_264
+  - first:
+      213: -11384152522889567
+    second: 20_magicbubbles_spritesheet_265
+  - first:
+      213: -3785527931499704269
+    second: 20_magicbubbles_spritesheet_266
+  - first:
+      213: 4065321480835299398
+    second: 20_magicbubbles_spritesheet_267
+  - first:
+      213: -3187243840683212360
+    second: 20_magicbubbles_spritesheet_268
+  - first:
+      213: -6025388964358234894
+    second: 20_magicbubbles_spritesheet_269
+  - first:
+      213: -3038589709172725122
+    second: 20_magicbubbles_spritesheet_270
+  - first:
+      213: -7868944132608029257
+    second: 20_magicbubbles_spritesheet_271
+  - first:
+      213: 7587159894156445076
+    second: 20_magicbubbles_spritesheet_272
+  - first:
+      213: 8672437138343835993
+    second: 20_magicbubbles_spritesheet_273
+  - first:
+      213: 7714969694435068889
+    second: 20_magicbubbles_spritesheet_274
+  - first:
+      213: 7077753925243904709
+    second: 20_magicbubbles_spritesheet_275
+  - first:
+      213: -823627054301957248
+    second: 20_magicbubbles_spritesheet_276
+  - first:
+      213: 2834405464683320720
+    second: 20_magicbubbles_spritesheet_277
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 753
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042bb0d6e56dffb4b9a745b8ed5c7dfb
+      internalID: 4409032251012935823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 754
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60993d201d66149a9c1496c861a037
+      internalID: 4065181024458708058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 755
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aafc64c54c5a343b60f85d08cd405d
+      internalID: -5425799556928479830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74f4686aad2dc4190ac3896d36b245
+      internalID: 2388159223331847977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e24b4d000fd04790fd0abfd1501c0
+      internalID: -407818703440091146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca889bd1c1279234385e5dcbe48eb9c1
+      internalID: 1198602711994019978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca1806ee1485342abb127749f0f671
+      internalID: 3554176392761919873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 752
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67fc4f3cb69384e8192b53831aeef4
+      internalID: 8534798888714273556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 719
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f731d9007f66e443ad554092fc82ad0
+      internalID: 6958172156970642362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 720
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02375d20467a4c2488b671ce6bfebdc6
+      internalID: -6673453918586420082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 720
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd4b9236093ae149934c1ec81bbb4c0
+      internalID: -2785063379658966067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe4a55bc98f1648a46ebad968bd5f1
+      internalID: 4090810644791392873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 725
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457f04e89172c74282c3dc2f5125a03
+      internalID: -7372538589298725679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 733
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81abac2b89bb70a40a1030549bd13b11
+      internalID: -4765065848865614871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 722
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9ecfaca11bf85449a4263330d17bd1
+      internalID: 4601788602000985596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 718
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cdea62f24d5b47b14b9ba2d2d6720
+      internalID: 3616816569782707944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 731
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0328afe1db0fa894dbfeb2ebf31de022
+      internalID: 1264376853689320256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 718
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd144e13ab67744193bb3439d279e61
+      internalID: 937365858633998054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 719
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e872ab072d71944b8f2620ca36c5680
+      internalID: -3363849532477048002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc8524416a556c48a4b4d8dd5ab1dda
+      internalID: 5670647937722059278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8becc87a56b31dc47ace2c7aaa564bdd
+      internalID: 4802629888861886528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fabbbc3208cb644494c9b5c9cabd1d9
+      internalID: 2488359252961851518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 718
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3712a6c8d3ac14fbb595a5070c4bf3
+      internalID: 6587951780302386891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 718
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d47529ee5dc74790d32789659ab2f
+      internalID: -6123988152469006896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 662
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56db67372d4d974f871a66fefa57673
+      internalID: -895997032319763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee204a4dff647b54eb9168ed38e2ff4a
+      internalID: 757656891384838969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 620
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13164281279c4cb46bde9ecb8788182c
+      internalID: 1857582598454748350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 621
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f54e13b6e42834394e4d92062a81e4
+      internalID: 3304866995427751621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 622
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d9ba098ae70f34f8d75d5c22ee8f8d
+      internalID: 5090024780538735383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5004ea7e3c5847438898ef610282be2
+      internalID: -3870174845548706236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 649
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2780b9f94e90f64191e629cb0e36e3f
+      internalID: 5070673775132083138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 650
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87353696a7340f841b6aa44731058254
+      internalID: -9043210551623885618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 651
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d101ce4650d684d872d81d7ed8cb02
+      internalID: 6746323408794748443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 620
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda706cd6b7740640a0348f7a363c7bf
+      internalID: 7913234044289323587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 631
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1cb5528ed904488a1dfb3186c767a
+      internalID: -4362062271305271315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 635
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68713c322fb1385408ccab33d6815eed
+      internalID: -391032558820842052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 629
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dacac845866434da8ab0fea620eb74
+      internalID: -4678678930770935667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 631
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8435953f1174439a3ca05ffc04ce3
+      internalID: -3199606228256401940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 635
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a65f71e9182b439c24e5a68093341
+      internalID: 4512413778795825279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 635
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4567b7a9138744408b4b0c4e5508b86
+      internalID: 2386300343696147353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 636
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2f5dd25877934fa59ee056c24b5bd
+      internalID: 3922432257740933100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 623
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3f1908506fb447b83cd8baa5c9890
+      internalID: -8818033552032386386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 630
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba775741ac8c245b11b9a54eab0496
+      internalID: -3639853095886612053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 636
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3bfe6d81b61b489c263939f233cbe
+      internalID: -6192312741039630943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 625
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a80532a4fb320409df211916fe4211
+      internalID: 1309483998184469936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 635
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f0fa5191fcd94fa0b4b45bbf6c8f7
+      internalID: 5814180464145285431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 637
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb95cc823a0fd4e9d8e9d57e1191bd
+      internalID: 5362163030192192848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 623
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ece12a906e8d45b2f4e9024a45f91
+      internalID: -2862555972211369155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 636
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d153b90c4f8e446819e251165c44df
+      internalID: -7922961623734536782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 637
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb836ff16f4c2c46bcfdd896d3abd80
+      internalID: 5976667770697549749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 623
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3241a63cff8a14983dedf1f827bcf6
+      internalID: 7449498172014977843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 636
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d0184f08856534e9e533fa2359ffbb
+      internalID: 5941533097018288476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 638
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87166dedf9b68644e9fdaf699eebba81
+      internalID: -122173415899642658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53caa7b22dd4aa4d945b39c74d42fac
+      internalID: 4777777698466959465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 553
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e266c00faed0604095842449b8b44ca
+      internalID: -2400816717176548225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 554
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481b7a072413bd43999bfe6bde9b31c
+      internalID: -8389787829064619681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 555
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d285e44baeab294893bb0400a054240
+      internalID: -1316329626115009376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb7dd21bbe2d14bad809eebae6f847
+      internalID: -2367703123146302819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 557
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75b111e6d347a418b494596ab3fc7d
+      internalID: -3195436035697300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 558
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861350f1aed300c448f0b1f468583d98
+      internalID: 2282240217077711973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443c428049c8e94fa44ad1f3a0db0ea
+      internalID: -1223536739951797012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 522
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1973f3756699545b77a76a458a8109
+      internalID: -724665548463770955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 545
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceed45f6a6ab5b459f42dee294e4aaa
+      internalID: 5765434721875191442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 521
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485a8dded777ce45b5f52ae85d09e9c
+      internalID: -8353725518978991299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 521
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e66540f8033b4681a0a03f52eb984
+      internalID: 1516487201609233508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 541
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7838b1086bc0e448702cbf4b463666
+      internalID: -5054360664470878953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 521
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42785754bdc0e741880f9c94cb27afb
+      internalID: -7451521032186400577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed0251497e93e4d854df9acae8ee3f
+      internalID: 953236267507096018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 521
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d62b55352b954691bc2f0f631ddd4
+      internalID: -6351186586504194779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 542
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ad0548e964d64dac5edb330fc0db5
+      internalID: -9188989950603747117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 521
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518e2758fd5424744b33acfd3a69451d
+      internalID: -1778449424651830229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 540
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58fd4c0690a954bbca0d2d0b0885ad
+      internalID: 5872502126292751076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 543
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f067063d9a3c4595e8756ff6c1037
+      internalID: 6390286776491914498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 545
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05408eff1cb9bb740876662d4a9c32b6
+      internalID: -3905920462295311462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548a1aa4d54b7049903985c775c5ab8
+      internalID: -5186589844281537102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b63e62cd683a43aef841ae0be76e7
+      internalID: 3291309628244992869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 546
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f54a57c4b5bb43a359a19fce3ab5e
+      internalID: -6877559930023512273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 537
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42412963807c77a45aa220210013d527
+      internalID: 5612846275660250127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260187e6fc60eb8468dac1a3846833dd
+      internalID: -7139122836399156506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 537
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb54987a7631943ae6dad7acccb0b9
+      internalID: 171144483781987258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b15ba2a5aa8874d84a2dba7a3208de
+      internalID: 4968607129204268502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 538
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f176ecf1658f848ac21b0ecfc18e75
+      internalID: 5520270388798094708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 538
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ed4eca05e6b64ba2733ba18a07cdb
+      internalID: -4681232046845268802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 539
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4414fcb31c1d47b01ca391008032f
+      internalID: -5851455122891997216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 521
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63a67bb0c08fb4aa72570400435f82
+      internalID: 7968457653928118123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 538
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe784a5aa1df941a1f036e707e5e77
+      internalID: -3895212745180218528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 522
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8533959d9e598489a9b215b5087262
+      internalID: 7376778492908441307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 541
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225155fd8db98244ab3e97713f6e4743
+      internalID: -5423834727506428989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 536
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a7b41bd0065f468831a46ce8f1426
+      internalID: -6566462863377474005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 537
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e2a72fe3b022488ee62d69d61b250
+      internalID: -9079995724856394463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 454
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68fff65a59f104bb3fcb9cb87f8505
+      internalID: 5163286773102601711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 455
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe49b1e6d08d94b85f06acc1679976
+      internalID: 41115438939616871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb47ef31a8010545bf6edb7fe2257ff
+      internalID: 8552751823613156372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a97e5c101b7d644beeda0529ba253d
+      internalID: -6282461659263629715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 458
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96841dd18518e344a628cacbde4c9bd
+      internalID: 8020788261373848673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b7bed2614db54097dc6b593239ded
+      internalID: 1318405430036932396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aefdde1a2c37ca4e838674f51a144ae
+      internalID: -4074499216013303918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 453
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df38422ad29464f92c8977e0429035
+      internalID: -8094039178322538251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 449
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb94f9dd7d2a141a95d3dc5fdee71e
+      internalID: 494500240306477417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 450
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2511e4971e708746b48b49359b045b6
+      internalID: 7309077243691896548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 434
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455bc1dc261ce5d48a304024d4c9fe94
+      internalID: 7166997442755138528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 434
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e594b1c79ede4d917eaf848a061e1
+      internalID: -6283386479312818329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 424
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779041828dae6ef4ab6d52be27cf9503
+      internalID: 5449566940524740728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 452
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a019e32955c34a835cb3ca656447d
+      internalID: -58890697170543433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667aec90f4032da458322143a46d4f93
+      internalID: 4544385545702777201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012431ae459fac8409e90050b852dec2
+      internalID: -8820291332520197579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 446
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b341d6e489278ed44a60bb5a559f0e8d
+      internalID: -5599235806090195300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 448
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8524c37e2e2a2743b8f2836304eda57
+      internalID: 4923024936127701371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983f86bb68db88469cd91994c0de00a
+      internalID: -3688422723885572670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 424
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab9834593f6154bbeeceb5e2b497fa
+      internalID: 5965497493474405167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 422
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3774481ca721409e8df6248a9c5c4
+      internalID: -8209850109663067909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 437
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c57c225375d204bb0a4dc0ea6fda7c
+      internalID: -1135771309082293641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 423
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b7b11140da1d4bb3cf264f7b05da5
+      internalID: 6364434938152415061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 443
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7d38ea27feb348b5ed78dbbd55487
+      internalID: -151254265389069338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 432
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb721bc4ab8dd1479009201f7a1c6fd
+      internalID: 2468184092647080335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a33c2c10ac6bf4f89f2593ec0a58ac
+      internalID: -2466257614674858834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 427
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2554f45e2a7cb4291066a8166e37bb
+      internalID: 5176118851239185613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 427
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d188563e909314f98db4d3c844c83c
+      internalID: 3828544146494224813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 423
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7bdc53bc0f3c74082797259d54efd1
+      internalID: -6438646771104631532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 427
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe221d37d63e7429c0c972b2db129e
+      internalID: -3888459968575273591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 424
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4439b30f4caf274684cb7936382938d
+      internalID: 3015288759952544675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 427
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1a895260825c4895dd700cdb8a30d
+      internalID: 9199844970146416228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 424
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ba491f541bce498a91009a19bd921
+      internalID: 2445481165139153324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 428
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b6ae3837c8664789408601115d5e6
+      internalID: -2838022044434589754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a5fefa6fb4e146af3318c6ec81411
+      internalID: 6192053319229382110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05628ed4cfb4fb24aa121564534c70ea
+      internalID: 7668954253361502816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 428
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672b0b508d652a4e9abaffd084adbc5
+      internalID: 2213487960554452389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 429
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8658002285234ea7c21069bc59c67
+      internalID: -1465371561498519256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 430
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5909f834ff51947bc68d10814c1c6c
+      internalID: -4361108954618156726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858dcadf1b1f0b40a453149cedf414b
+      internalID: 3919760954089142552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb1ca708072944a82d8ababd043b9b
+      internalID: 5818110374239081724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c0c69c0a20704caac6ec4868955dd
+      internalID: 6892961864794992448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377535f1a50785d44af43feb4584157c
+      internalID: -4062579376303041478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 367
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c628c8e18e90c4488605fd2d4ba186
+      internalID: -3545027263266612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d3716646e73b42b73b78b19728f66
+      internalID: 6083247025122712350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 358
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e901a7af7781a34995b0a18b02b0bd9
+      internalID: -2793964146702334852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e68dddc497a9141a0bf8773d5cd6da
+      internalID: -4363897421220906109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 360
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a665868a060741bb4a3138b9af564
+      internalID: 4883889083995838022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 334
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0c6a34d2cf0243a769706b0fae18c
+      internalID: 5834567239681631265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2921e85a53d432a4b9a2a542f3dcc5c9
+      internalID: -7106149083721332160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 354
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68a264a5124a74ea3c28087c841093
+      internalID: -765355614237422915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 356
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f3c3485ce2e44dae6ff77a8122083
+      internalID: -4877094095925636224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 357
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614ac54f1724f344b8d384a540cc78f
+      internalID: -3049631334253774397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 325
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac172ff14df8fa74cbf77cd3b99c1c33
+      internalID: -6865575357143731476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 325
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d692e5ed4043024fa22c09fb63f5480
+      internalID: 7412755210996774304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 335
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbe76a246cbfc44b5c80126fbb0960
+      internalID: 7969583096519931225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 340
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ffb3acd3762d4ba1129bf142f3613
+      internalID: -1808508681800687071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 335
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99e95c6fb457f4d836120283706c62
+      internalID: 2873575000536760339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbc04d7d6ff3c488a4d3ff2d462676
+      internalID: 6907761283896463775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 335
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a235a67b12d7b4ca88560e9a68fb6e
+      internalID: 2922063846123238611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 346
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38640dc247938140ad2d2983189a5a5
+      internalID: -9111460793249212740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 336
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60f6f69fb143649bc01bb28935b012
+      internalID: 778906606327321306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 347
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84129ec91be53479ffdb570870776f
+      internalID: -6949376734638862258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 334
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d259baf61f94b04381857cad3efcd13
+      internalID: 5682013171646074038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 338
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852330b04d5f6a84992d5f73af7b4965
+      internalID: -7295004352058385622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 348
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f3439ee93aed4883f3c54b8f604a9
+      internalID: -3614718328902803788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 339
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc1be7f722d7a4682a1793ec7b4497
+      internalID: -264783292622464944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ec00622c3c3141a5eba7a700ede47
+      internalID: 6803069346100088554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10d7f3e38d94d45b2edcec1f248e86
+      internalID: -8447428245279486786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 332
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fdcd9ab6e16aa4aaaa2b46c29dde02
+      internalID: 4902757137692657302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f193dd58ef77542a595abdd814864b
+      internalID: 6929900436126832772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 335
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad703af89f2e24a8b7a1f3463e60af
+      internalID: 6679749231625534787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 336
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73785202a6425842a9ef8ec31b8721d
+      internalID: -4821459706753671617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 337
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38680027618bcca4681890dcb1185445
+      internalID: -7846768882987231819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 338
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ac9c5343d6d441acf3f4d67c1deaf
+      internalID: -9179375225231440364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dcda499f658ac44aa2575638bff286
+      internalID: 5757705608156231305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33367246e0f8143b77034fc873c202
+      internalID: -4924337835577071868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ba4c5ec03a654db5d1a3a23e0a8f3
+      internalID: 6566876558359982151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 326
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287f864fc8d1f046b0b1272a1abe64a
+      internalID: 2433347175286538739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58116c5f44150264e9f725a331d1ece7
+      internalID: -4936758544361475857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c904a1631a95479620a6c2050518e
+      internalID: -6755621439614500062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada8cdff66fa9d1418b40d8374c30f76
+      internalID: -7502582402600734950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 328
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca86156efa8c54dacb11374d2b34fd
+      internalID: -3522710734630308245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019acc2f9fafef4d9ea781ba5a13c96
+      internalID: -113282839903864916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 329
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0fa1987fa21a44f8b3e27a3de521be
+      internalID: 7697784375847260999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 326
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb358507e68abca429fe7477a7f5cada
+      internalID: 1152963928145606141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745f8a5084a6a645aac15ef88b15fed
+      internalID: 8371731530393379181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1c42846cc2b845977351097d72911
+      internalID: -5992340110830766649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af447d0c2779114780291152cc55f7d
+      internalID: -7738534552611681964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 257
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2a14d3ad79cf4c9af87a7bae35c73
+      internalID: 2154798143344343696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 258
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb9157c7a75054ebd010b8b6b66a3a
+      internalID: 2440224198276253043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 243
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54fa3a5d43637f4290038ec9d83a977
+      internalID: 7182085693491092023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e902c12b578d1459e076105b0f1c72
+      internalID: 8629045468474954458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 222
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c698cf773d1cc4488ead84749984aa
+      internalID: 8722285138460497865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 222
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47f7d94b0b9e8f479b50dd16948d288
+      internalID: 692156733590219304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 254
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6ebb46c0494994da747f64ed9be404
+      internalID: 6035946499303906985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e851daced79b4f99c09bd6b6a9fab
+      internalID: 3415542928024211029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 225
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607c3835c64d3943be0c75b8a3051a8
+      internalID: 6866679717963767810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73624ec4931bffa41adb998f1bfb0773
+      internalID: 7465280849815578674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 252
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b323f2c81b51504a9ad71eb216f6822
+      internalID: -1446053371307526261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 242
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4eca924e2d6194cbe4d62f43620597
+      internalID: -12078341779474454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 243
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e34d107789724d84c438a2cafe6f8
+      internalID: -113382698582242054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a0313450492846a84e555f33efe1e
+      internalID: 3704378104529392396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 250
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b53e35f83890a44bf3bf624fbcf009
+      internalID: -5098304155046366713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bfc1bdde312e246ac1430b2ef51250
+      internalID: -1997251577094487716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 248
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a370fd513e06a94a9c68791cbd0ce3a
+      internalID: 4774715560779751373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 240
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0b3e93d949764a9c55cfc96608202
+      internalID: 7944130034755419297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 245
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dad2920ef9eae4ea6c387ecc3e665b
+      internalID: -1590336086056707902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaaeba5bdcca174195bede2ffc65ff5
+      internalID: 7331947147321206608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 251
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744667a6bba2c24bb2b8404e21c6c14
+      internalID: -2725207426709107449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd14157d9e561140ad01c0970043ab0
+      internalID: -6554833160320266671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 242
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1fe02b9a9bde84c96fff47454eb64c
+      internalID: 8907725587402881359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a8a47d2addbd4ba00516aefa230bc
+      internalID: -3433938046273017385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bee1719d2831f4f8b2182ab5853748
+      internalID: 3000195028047509337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 251
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac38d7d4828fe4cbaf806bb03e9736
+      internalID: -4087889238842396365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32499515f59ffb42bf85c83b3ff886f
+      internalID: 813761699040319683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 246
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f43734c0e7685438dd182c9ae3d6ff
+      internalID: 8173805681028303786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 247
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486674b29a16dc42bfd02fd941a8a58
+      internalID: -4432646266859027872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 243
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed5b4934c45644abf289b75fe36907
+      internalID: -6148228923394145253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eebebe14aa1d624dadebd217e8ecf5c
+      internalID: -2555846232546328727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d5b25a0ebc7d94d8ad73a814ac460e
+      internalID: 4422711955714047498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b19b5cbfc150b745b679298a4ad2981
+      internalID: -6250806977378983023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 225
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364f9b4a9a43414493581cb66cbc212
+      internalID: -1814355783603526948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 224
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f1932b977285d4d9951ebc007ad07e
+      internalID: 8716193800433275643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 237
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3789c11ba17e54e8831bdfd1106ede
+      internalID: 6831249758696882344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 223
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89928ac5d1e2a439ceed9b77d43642
+      internalID: -5939070844772864308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5a77ab89105045a4a6dd24c72bbad
+      internalID: 5811029647255235265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 238
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d1111576470e46aacc9f0e6a50ea3
+      internalID: -4328420644176981591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669c610d79526a459ee154fa09face3
+      internalID: 3836238609358644277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff035949ff311e4da171cbb076bc3b2
+      internalID: -8143756744378225123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0564e1a9d9cd49a11dd40024274e3
+      internalID: 4120826413757033044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa810bc6e2b09849bea264f3d3aac84
+      internalID: 6428935916390357696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cab2a52ebd1b949a112c175aea32a6
+      internalID: 8915299135044405247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39043b962b9138f4795c3f3db8783d9d
+      internalID: 4171101998804096318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5726e1dda53c04b8a7dcaad9be6432
+      internalID: 6850781106141150224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f8e45a700230e42a990160dd176c98
+      internalID: 7241489113442880684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 138
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c5aa6c9e64fb4cb0dc0ea9375dad1
+      internalID: -1778323271810635496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5c473ae1b6d942a1e2fc21a78c2e5
+      internalID: -9217630116964762735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67926491cae6dd498f02424f1ed1661
+      internalID: -783270704396570774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa87b7a540a6084fb21a8677996ecf2
+      internalID: 2679428948312914571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d55c39f991c5b4689ecf9a29eb62a1
+      internalID: -2071217174519433718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 148
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5ea38a140d9845a6629ffce11de63
+      internalID: 2268565267492906036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5e757ded86cc4d869acea7c4671b5
+      internalID: -1585732481793477535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 149
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7df4714187ef4e9a3c9ba24a7c027
+      internalID: 5804499048803004281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 145
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0f3099c9434b4392fcdd85b4bf9b6
+      internalID: 7464197781914091555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 150
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10147f9f02a554d4d8c258690a413a9d
+      internalID: -6133236407369448043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 146
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed98f23d1101a44a8fe7aab9a4027ad
+      internalID: -3245299556913137686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d8ffae7e6e0144a75e4a2cf506b01
+      internalID: -4877807953837632078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 148
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1100d3a56e941734ab634ab89fd817c8
+      internalID: -4509746566447147185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b797de78b124d564f8c79f8fa9198de4
+      internalID: -3633116089268886092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884ead277b580b4f99980e5c78a2d42
+      internalID: -8819235642827777004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383fbdc6b0c25e49bd1be4bf7239820
+      internalID: 8238511089394229961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d3a631b3bb3c49969c4fd3f120568
+      internalID: 3186067150214518625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 145
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916b9aac3b34484da1939430fe940e6
+      internalID: 6441381533675758243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec920cd15e3f9a42aeef3431628304f
+      internalID: -7989871169503352060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 146
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62a3610649b994cbbb2d723dda6dbe
+      internalID: -5332781581009992432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 145
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72719e39e2a46a84e887dd716ce04e96
+      internalID: -4859891764448756303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 147
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e482a0337cdf34584dc5ffd8f3dbc1
+      internalID: -54141596156968955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244c1792f4717942a0795941114a50b
+      internalID: -1707323948389097560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 140
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363791f3066cbf4fad7ad063954497f
+      internalID: -2349302530567121975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_250
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 141
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a212eadaea8e54c95a059f7e66e770
+      internalID: -5517954880949719730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_251
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 142
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16669f5dbf3b44c4ab098d3adbbecf9b
+      internalID: 5578385311631525575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_252
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66581e178423f4a82266520a874870
+      internalID: 3640979836496264946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_253
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 121
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9246f3c02acc43ab4072ea93a8335
+      internalID: 8213832138138851369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_254
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 121
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60581990b84963949a4d337166f32644
+      internalID: -1182403757781119416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_255
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 121
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c200e19203164f811a898d921ebce
+      internalID: -3806344348896737679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_256
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 121
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2f329821d15d4a9f03302c0b00168
+      internalID: 1890892344856081025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_257
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 120
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414366f7b7681a046b8def561f833e73
+      internalID: 3395750336588317526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_258
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 120
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552fdf0c588acf446afcb56ae2ef2735
+      internalID: 1317735811936194824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_259
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea0b460c245334bbec9b09bbcec390
+      internalID: -4685537275589551708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_260
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401351ea79ab46c488cb0a9c044df2d6
+      internalID: -5549188917772538181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_261
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94255e3cc96648b4990fda0ceded9190
+      internalID: 9128670137292042057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_262
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74cb9ccc31c6a24798980d80ba800f0
+      internalID: 266270671281022608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_263
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5120022559a1a54f99b57c287f59b4a
+      internalID: 8614358836229594970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_264
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15a05eaebf1aa2488fa4002cb3a6961
+      internalID: -992456070163834998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_265
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 51
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa8a3f3d50e874ba8054c55ef6428a
+      internalID: -11384152522889567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_266
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1921e9a506b51746a39baba754a4afa
+      internalID: -3785527931499704269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_267
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25ed0b3340d0b4caf06f6e770b6936
+      internalID: 4065321480835299398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_268
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d702e5844c957847859a101ba2e8b9f
+      internalID: -3187243840683212360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_269
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9d051085aab5499f25e044bbbec93
+      internalID: -6025388964358234894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_270
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e78eb7bde52cc47ac289545751bb0c
+      internalID: -3038589709172725122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_271
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d388fb42394664082cf71803aa3e62
+      internalID: -7868944132608029257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_272
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc5fd24fbda7ed428f35801322ff020
+      internalID: 7587159894156445076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_273
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578803ed991f5e4594f653cd7b8b1fb
+      internalID: 8672437138343835993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_274
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c24d525f390f499f811f1c5e411d0
+      internalID: 7714969694435068889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_275
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 18
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8247f386e061d0d47acf24009ceb550f
+      internalID: 7077753925243904709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_276
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 19
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a26fa11829ce4d92e2369a2d4c742
+      internalID: -823627054301957248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20_magicbubbles_spritesheet_277
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b244e8ce112d4c9c57d6b2585899a
+      internalID: 2834405464683320720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 009155934ba407a479be55528698774f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
